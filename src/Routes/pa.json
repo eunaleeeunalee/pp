@@ -1,0 +1,215 @@
+{
+    "books": [
+        {
+            "title": "Ultimate guide for people who are not close enough to me to ask about my name.",
+            "author": "Alma Kim",
+            "mail": "alma.sun.kim@gmail.com",
+            "insta": "https://www.instagram.com/almasunkim",
+            "price": "",
+            "description": ["As an Asian with a European name, I’ve got some questions about my name since I moved to the Netherlands. Like the title of the thesis, I explained my journey of how I decided to use Alma as my name."],
+            "code": "PA_001",
+            "type": "pa0",
+            "image": ["https://raw.githubusercontent.com/notjustacollective/https-notjustacollective.github.io-/main/archive_img/pa/PA_001.png"]
+        },
+        {
+            "title": "How to Centre the Vomit: On Struggles with Modern Aesthetics, Towards Pluriverse Aesthesis",
+            "author": "Wei-Chi Su",
+            "mail": "weichisu.anya@gmail.com",
+            "insta": "https://www.instagram.com/weichisu__official",
+            "price": "",
+            "description": ["How to Centre the Vomit is a handbook that has a feminist and decolonial approach, challenging the cultural hierarchy in fashion design education. This handbook provides people, especially fashion students, with a self-organised educational method, raising awareness of the dominant modern/colonial perspective and emphasis reflective solidarity."],
+            "code": "PA_002",
+            "image": ["https://raw.githubusercontent.com/notjustacollective/https-notjustacollective.github.io-/main/archive_img/pa/PA_002.png"]
+        },
+        {
+            "title": "Tipping Point",
+            "author": "Sabina Scortanu",
+            "mail": "sabinascortanu0@gmail.com",
+            "insta": "https://www.instagram.com/sabina.scortanu",
+            "price": "",
+            "description": ["Tipping Point is an abstract visualization of a moment in time which is crucial and radically changes the course of an event. The composition is inspired by the Big Bang explosion that supposedly created the Universe as we know it. The agglomeration and collision of particles is frozen in a piece of space hanging on a fraction of a second."],
+            "code": "PA_003",
+            "image": ["https://raw.githubusercontent.com/notjustacollective/https-notjustacollective.github.io-/main/archive_img/pa/PA_003.png"]
+        },
+        {
+            "title": "Icebergs in Memoriam",
+            "author": "Astrid Meijs",
+            "mail": "astridmeijs@gmail.com",
+            "insta": "https://www.instagram.com/astridmeijs",
+            "price": "",
+            "description": ["This zine is about obituaries of icebergs from Greenland. I went to Greenland 5 years ago and took a lot of pictures of the icebergs. Now they are all melted down and therefore I made this zine, to remember the icebergs. Icebergs in Memoriam."],
+            "code": "PA_005",
+            "image": ["https://raw.githubusercontent.com/notjustacollective/https-notjustacollective.github.io-/main/archive_img/pa/PA_005.png"]
+        },
+        {
+            "title": "Dig a Hole, Slide in, Wake me up Later",
+            "author": "Collective HIBERNATION",
+            "mail": "hibernation.visalibons@gmail.com",
+            "insta": "https://www.hibernation.gay",
+            "price": "",
+            "description": ["Dig a Hole, Slide in, Wake me up Later is a zine that was published as the result of a three month residency programme in Spain. Contributions are made by the residents, and their work is used to create a collage kind of booklet reflecting on the ideas, conversations, research and work that was done and made during this period.", "The zine is printed @Riso-Wiso in edition of 100, has 22 pages and two transparent fold-out pages."],
+            "code": "PA_006",
+            "image": ["https://raw.githubusercontent.com/notjustacollective/https-notjustacollective.github.io-/main/archive_img/pa/PA_006.png"]
+        },
+        {
+            "title": "The Psychology of the Web Developer, Reality of a Female Freelancer",
+            "author": "Maisa",
+            "mail": "maisaimamovic@gmail.com",
+            "insta": "https://www.instagram.com/immans",
+            "price": "",
+            "description": ["Underneath the user interface of any website—be it simple or complex—lurks the web developer’s struggle with money, prestige, and power. An ever-lasting race to the top, never not working. Yet what are these unseen costs of being a traditional web developer, and who decides the rules of the game?", "In this book on the psychology of an emerging yet often overlooked profession, Maisa Imamović explores the technological complexities underneath ordinary websites by asking questions such as: Who is a web developer? What does their assistant look like? Why does everybody want a ‘simple’ website? What on earth is WordPress cringe? And what does it mean to be a female freelance web developer in a world full of tech bros?", "Strolling through this landscape of questions with irony and self-reflection by her side, Imamović takes the reader on an insightful, playful journey. Combining recollections of the author’s very first digital friend with a characterization of a bossy Senior Web Developer and his loyal Assistant as well as funny, raw testimonies of her own (post-pandemic) development within the field, the book can be read as a quest for liberation of the constraints of being both a web developer and a user."],
+            "code": "PA_007",
+            "image": ["https://raw.githubusercontent.com/notjustacollective/https-notjustacollective.github.io-/main/archive_img/pa/PA_007.png"]
+        },
+        {
+            "title": "Humming and mumbling - The volatility of whispers",
+            "author": "Catelijne Boele",
+            "mail": "catelijne.boele@outlook.com",
+            "insta": "https://www.instagram.com/catelijneboele",
+            "price": "",
+            "description": ["The texts I bundled into this booklet, attempt to access memories and dreams through the soothing coolness of a mumbling forest. A forest, where the trees communicate as invisibly amongst each other, as memories and dreams do with human beings themselves."],
+            "code": "PA_009",
+            "image": ["https://raw.githubusercontent.com/notjustacollective/https-notjustacollective.github.io-/main/archive_img/pa/PA_009.png"]
+        },
+        {
+            "title": "Rush Print #002 Punctuation",
+            "author": "Rush Print",
+            "mail": "sophievdsman@icloud.com",
+            "insta": "https://www.instagram.com/rush.arnhem",
+            "price": "",
+            "description": ["Rush Print #002 lays its focus on a specific part of typography namely; punctuation. Our main interest in these typographic devices is that they, like typefaces, have the ability to give character to text. Its typographic shapes are significant and essential for text-based communication, having the power to emphasise pauses, thoughts, ideas, and even the tone and emotion of a text."],
+            "code": "PA_010",
+            "image": ["https://raw.githubusercontent.com/notjustacollective/https-notjustacollective.github.io-/main/archive_img/pa/PA_010.png"]
+        },
+        {
+            "title": "Planet Gold",
+            "author": "Bastiaan Kuijt",
+            "mail": "Studioquestionmark@gmail.com",
+            "insta": "https://www.instagram.com/studioquestionmark",
+            "price": "",
+            "description": ["Two colour RISO print on A4 Malmero / navy blue - 300 grs."],
+            "code": "PA_011",
+            "image": ["https://raw.githubusercontent.com/notjustacollective/https-notjustacollective.github.io-/main/archive_img/pa/PA_011.png"]
+        },
+        {
+            "title": "Wander",
+            "author": "Judith Reijnders",
+            "mail": "info@judithreijnders.com",
+            "insta": "https://www.instagram.com/judithreijnders",
+            "price": "",
+            "description": ["Wander is one step further than a map or pictures. The 'booklet' is folded in several ways so you can get lost inside the paper. It is an invitation to the viewer to create a personal experience and wander through the area the booklet represents."],
+            "code": "PA_012",
+            "image": ["https://raw.githubusercontent.com/notjustacollective/https-notjustacollective.github.io-/main/archive_img/pa/PA_012.png"]
+        },
+        {
+            "title": "What delay vibrates with new breath",
+            "author": "Katie Ford",
+            "mail": "katie@katie-ford.com",
+            "insta": "https://www.instagram.com/_katie.ford_",
+            "price": "",
+            "description": ["“What delay vibrates with new breath” is a risograph zine ruminating on subjectivity, perception, and relation. It layers cited texts about writing, art, and radical teaching with photo imagery to draw abstract connections. It questions the ways in which our identities are unfixed and the worlds we inhabit are multiple."],
+            "code": "PA_013",
+            "image": ["https://raw.githubusercontent.com/notjustacollective/https-notjustacollective.github.io-/main/archive_img/pa/PA_013.png"]
+        },
+        {
+            "title": "Hangin' round (with Rens)",
+            "author": "Matthieu Reijnoudt",
+            "mail": "matthieu.reijnoudt@gmail.com",
+            "insta": "https://www.instagram.com/camellia_delicious_tea",
+            "price": "",
+            "description": ["A 40-pages book with photo’s, shot on an old Nokia phone by my ex-chef and friend Rens. The book is bound by a vacuum seal-bag, a relic of our time working together in the kitchen. Edition of 40"],
+            "code": "PA_014",
+            "image": ["https://raw.githubusercontent.com/notjustacollective/https-notjustacollective.github.io-/main/archive_img/pa/PA_014.png"]
+        },
+        {
+            "title": "The Cough",
+            "author": "Sanne Kabalt",
+            "mail": "sannekabalt@gmail.com",
+            "insta": "https://www.instagram.com/sannekabalt",
+            "price": "",
+            "description": ["The Cough is a combination of words and images. The words follow the trajectory of the cough from deep within a body out into the world. The images are abstracted versions of scientific depictions of coughs. Droplets released from a cough were photographed in laboratories using laser light and high speed cameras. I’ve blown these up, cropped and rasterized them and present them as prints with white ink on black paper.", "booklet with fold-out cover", "24 pages, 23 x 16 cm", "riso-printed (inside)", "white ink on black paper (cover)", "handbound with cahier-stitch", "2022"],
+            "code": "PA_015",
+            "image": ["https://raw.githubusercontent.com/notjustacollective/https-notjustacollective.github.io-/main/archive_img/pa/PA_015.png"]
+        },
+        {
+            "title": "Bifid Readings",
+            "author": "Sad Belongings Press",
+            "mail": "ssantana.bbaa@gmail.com",
+            "insta": "https://www.instagram.com/sana_sartara",
+            "price": "",
+            "description": ["Bifid Readings project was organised by Sara Santana López in collaboration with Mariana Jurado Rico and Margaux Koch."],
+            "code": "PA_016",
+            "image": ["https://raw.githubusercontent.com/notjustacollective/https-notjustacollective.github.io-/main/archive_img/pa/PA_016.png"]
+        },
+        {
+            "title": "151 Do-It-Yourself Stones",
+            "author": "Jiney Chu",
+            "mail": "Jiney0102@gmail.com",
+            "insta": "",
+            "price": "",
+            "description": ["Dunzi (‘墩子’Chinese Pinyin, meaning homemade concrete blocks, or Do-It-Yourself Stone or DIY Stone, as what we refer to in this book), which are not usually noticeable though, used to be commonly seen in the street of many Chinese cities. Unlike natural ones, all those artificial stones in the book were made to meet various needs in cities and then weathered as time went by. They like the underdeveloped primitive tools in modern society, could be the remnants of the current era to be remembered in the future. A friend of mine described them as a special kind of “People's Monument”, on which the traces of daily usage form the “inscriptions” written by people in their time.", "Photos of the 151 homemade concrete blocks are presented on the book jacket of “151 Do-It-Yourself Stones”. Some photos have been indexed so readers can access more details on relevant pages in the book. As the book jacket is well-thumbed, the paper becomes easily creased and marked——just like the surface of any used Dunzi."],
+            "code": "PA_017",
+            "image": ["https://raw.githubusercontent.com/notjustacollective/https-notjustacollective.github.io-/main/archive_img/pa/PA_017.png"]
+        },
+        {
+            "title": "lūnāris",
+            "author": "mariona",
+            "mail": "maco200121@gmail.com",
+            "insta": "https://www.instagram.com/mariona.codol",
+            "price": "",
+            "description": ["a landscape that takes you out of the loop and invites you to an off-earth experience. A landscape that is more lunar than terrestrial.", "lūnāris is a Riso-printed book made this year (2022) that collects images of that lunar landscape in the natural park of Cap de Creus, Girona, taken in 2020 on film."],
+            "code": "PA_018",
+            "image": "https://raw.githubusercontent.com/notjustacollective/https-notjustacollective.github.io-/main/archive_img/pa/PA_018.png"
+        },
+        {
+            "title": "Triple treat",
+            "author": "Jop luberti",
+            "mail": "",
+            "insta": "https://www.instagram.com/jop.luberti",
+            "price": "",
+            "description": ["Riso Poster"],
+            "code": "PA_019",
+            "image": ["https://raw.githubusercontent.com/notjustacollective/https-notjustacollective.github.io-/main/archive_img/pa/PA_019.png"]
+        },
+        {
+            "title": "antidisciplinary workbook of care",
+            "author": "Generation 31",
+            "mail": "tjerrelucasbijker@gmail.com",
+            "insta": "https://www.instagram.com/generation.31",
+            "price": "",
+            "description": ["Gen.31 created the Antidisciplinary Workbook of Care to elaborate on the subject of care, caring and taking care in more organic, shared, communal and non-commodified manners. The workbook (zine) includes a manifesto on Gen.31's view on care and caring activities and several activations of this point of view.","To [take] care in such a manner advocates ways of learning to touch, feel, read, feed, share and learn in a collective manner of caring. The caretaker then takes the shape of a protagonist who travels between a multitude of different outside realities while carrying items of trade; shared knowledge, insight, methods, gossips, shoulders to cry on, networks of kinship, remedies and crafts."],
+            "code": "PA_020",
+            "image": ["https://raw.githubusercontent.com/notjustacollective/https-notjustacollective.github.io-/main/archive_img/pa/PA_020.png"]
+        },
+        {
+            "title": "Shelf Life",
+            "author": "Sadie Hennessy (AKA The Mature Lady Artist)",
+            "mail": "fadedbeautyinternational@gmail.com",
+            "insta": "https://www.instagram.com/memphishennessy",
+            "price": "",
+            "description": ["A full-colour 16 page zine about getting older as a woman, published by Silverhill press"],
+            "code": "PA_021",
+            "image": ["https://raw.githubusercontent.com/notjustacollective/https-notjustacollective.github.io-/main/archive_img/pa/PA_021.png"]
+        },
+        {
+            "title": "Post Mortem",
+            "author": "Demi Anagnostouli aka Jessica",
+            "mail": "demichoc99@gmail.com",
+            "insta": "https://www.instagram.com/jessicahyde_",
+            "price": "",
+            "description": ["Art book that has texts as its base. Texts like short stories, poems, random thoughts and observations that have society and people as their main subject. The meta- narrative of reality as I experience it. They are combined with art material, digital and not. It is printed with the method of rizography."],
+            "code": "PA_022",
+            "image": ["https://raw.githubusercontent.com/notjustacollective/https-notjustacollective.github.io-/main/archive_img/pa/PA_022.png"]
+        },
+        {
+            "title": "Urban Diaries",
+            "author": "Demi Anagnostouli aka Jessica",
+            "mail": "demichoc99@gmail.com",
+            "insta": "https://www.instagram.com/jessicahyde_",
+            "price": "",
+            "description": ["Rizo-printed zine featuring experiences of the city life and its inconveniences directed to city explorers as it gives the idea of a map."],
+            "code": "PA_023",
+            "image": ["https://raw.githubusercontent.com/notjustacollective/https-notjustacollective.github.io-/main/archive_img/pa/PA_023.png"]
+        }
+    ]
+}

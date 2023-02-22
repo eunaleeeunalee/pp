@@ -1,0 +1,559 @@
+{
+    "books": [
+        {
+            "title": "For sale →",
+            "code": "",
+            "story": "",
+            "image": ""
+        },
+        {
+            "title": "Responge",
+            "author": "Isolde Uenrooy",
+            "code": "S_01",
+            "price": "€ 0,50",
+            "mail" : "info@isoldevenrooy.com",
+            "insta": "",
+            "story": ["• r • e • s • p • o • n • g • e • is an offset handout developed by visual artist Isolde Venrooy, designed by Peter van den Hoogen / Coup with an in-depth essay written by Marlies van Hak and translated by Jonathan Beaton.", ""],
+            "insta" : "",
+            "image": [
+                "https://raw.githubusercontent.com/notjustacollective/https-notjustacollective.github.io-/main/archive_img/r1s/S_01.png"]
+        },
+        {
+            "title": "Simulacrum - The documenta issue",
+            "author": "Marta Pagliuca and Niels Noot",
+            "code": "S_02",
+            "price": "€ 5,00",
+            "mail" : "marta.pagliucapelacani@hotmail.it",
+            "insta": "@idasaai",
+            "story": ["The documenta issue is a special issue of Simulacrum which strives to know documenta fifteen through the personal experiences of those who have made and attended it. In this sense, the documenta issue is a spontaneous harvest, the result of a collective refusal to yield to unidirectional ways of knowing."],
+            "insta" : "https://www.eventbrite.com/manage/events/477309534667",
+            "image": ["https://raw.githubusercontent.com/notjustacollective/https-notjustacollective.github.io-/main/archive_img/r1s/S_02.png"]
+        },
+        {
+            "title": "Collective Wandering: Hanging Out with Our Everyday Ecology",
+            "author": "Lenn Cox",
+            "code": "S_03",
+            "price": "€ 28,00",
+            "mail" : "lenncox@gmail.com",
+            "insta": "@lenncox",
+            "story": ["This publication is a collection of insights and encounters, experienced during my continuing research ‘Collective Wandering’. What started out as a solo adventure consciously evolved into a collaborative and collective journey. With the aim to inspire and support kindred individuals who are in search of an alternative rhythm of learning-working-living."],
+            "insta" : "https://wobby.club/news-archive/2022/11/11/wobby-wonderland-saturday-10-december",
+            "image": ["https://raw.githubusercontent.com/notjustacollective/https-notjustacollective.github.io-/main/archive_img/r1s/S_03.png"]
+        },
+        {
+            "title": "BLISS",
+            "author": "Gloria Glitzer",
+            "code": "S_04",
+            "price": "€ 20,00",
+            "mail" : "hello@gloriaglitzer.de",
+            "insta": "@gloriaglitzer",
+            "story": ["Hey Bliss! You say the misery has ended and you love your body as it is. I find this very healing and would like to ask you if you would like to befriend me. Do you feel like it? Then I would not be alone, and I would have company, and we could form a community in which we take care of each other.You really are like the sunrise. Don't you ever have doubts? Because I do. I try very hard, but sometimes I feel weak, I have fears, and I don't feel fit, fit, fit enough for anything. Just look at me: my body is the product of my work and becomes more and more the mirror of our society. Work-life-balance: Hahahaha when will the collapse come? Times are just challenging. But Bliss, please tell me, in your life is there not just awakening, love, and freedom of being?"],
+            "image": ["https://raw.githubusercontent.com/notjustacollective/https-notjustacollective.github.io-/main/archive_img/r1s/S_04.png"]
+        },
+        {
+            "title": "MagaSPIN Issue 1: Water",
+            "author": "SPIN collective",
+            "code": "S_05",
+            "price": "€ 15,00",
+            "mail" : "spincollective@protonmail.com",
+            "insta": "@wdka_spin",
+            "story": ["The first issue of the MagaSPIN compiles essays, artworks, reflections, and interviews about water in the context of the climate crisis. It hosts and connects an array of critical and imaginative practices surrounding ecological degradation and adjacent topics from the perspective of artists, writers, designers, and passionate amateurs."],
+            "image": ["https://raw.githubusercontent.com/notjustacollective/https-notjustacollective.github.io-/main/archive_img/r1s/S_05.png"]
+        },
+        {
+            "title": "We all need a place to go! – A manifesto for mass access to the smallest-room-in-the-house; or let’s just say it, the toilet",
+            "author": "Kirsten van der Holt",
+            "code": "S_06",
+            "price": "€ 4,00",
+            "mail" : "k.vanderholt@gmail.com",
+            "insta": "@bathroomfeminism",
+            "story": ["This feminist zine, made with both an academic and artistic approach, shows that the bathroom as a place where questions of gender, race, and class intersect. It is a place of both potential comfort and taboo. It aims to underline the importance of having safe and mass access."],
+            "image": ["https://raw.githubusercontent.com/notjustacollective/https-notjustacollective.github.io-/main/archive_img/r1s/S_06.png"]
+        },
+        {
+            "title": "Our Silver Lining",
+            "author": "Maite Vanhellemont",
+            "code": "S_07",
+            "price": "€ 20,00",
+            "mail" : "maitevanhellemont@hotmail.com ",
+            "insta": "@maitevanhellemont",
+            "story": ["This publication originated in the summer of 2018, right after I graduated from the university of the Arts, Utrecht (NL). In that period I often lacked the right motivation, space and time to make work, and filming and photographing with my mobile phone turned out to be the perfect way to continue to make work in an accessible way. Under the working title 'OBSERVATIONS' I collected --the working title says it all-- everyday observations, which I eventually brought together in a video of the same name. This video was previously shown during Museum Night 2019 in Amsterdam. I initially did not take this way of working so seriously, but now it has become an indispensable part of my practice; 'Our Silver Lining' is an ever growing collection of everyday moments. All videos and photos are unstaged and shot with an iPhone 8 between the summer of 2018 and the summer of 2020, in various locations around the world. The title of this project refers to a text I came accross a house in Ostend (BE), during a family weekend in the fall of 2018. According to some a cliché, but I experienced this as a piece of poetry you sometimes just stumble upon.", " ",
+                "At the end of 2020, the idea arose to bring all the collected material together in one publication. In order to realize this, I collaborated with graphic designer and good friend Fabian Hamacher. In addition to my collaboration with Fabian, I also sought collaboration with author Jan Zwaaneveld. Inspired by my work, Jan wrote the text ‘All that we don’t see', a collection of fragments and scenes that struck him from everyday life. So you could say that we work in a similar way, but only choose a different medium. Judie Ellington provided the English translation of this text.", "Ideally, this publication will be the first in a series, which I want to (self)publish on an irregular basis, showing a new selection of this archive every time. By working in this way I force myself to take the images out my phone and look at my work with more critically."],
+            "image": ["https://raw.githubusercontent.com/notjustacollective/https-notjustacollective.github.io-/main/archive_img/r1s/S_07.png"]
+        },
+        {
+            "title": "GHOST FILES – SUMMER SCHOOL 2022",
+            "author": "Jian Haake",
+            "code": "S_08",
+            "price": "€ 24,00",
+            "mail" : "jian_haake@web.de",
+            "insta": "@ohjian",
+            "story": ["'GHOST FILES' is a collective investigation trying to grasp what is there but at the same time not actually there. Together we are searching for the abandoned and the overlooked, the lost souls that somehow stay with us, even haunt us at times.The publication is a book in sheets, ready to be rearranged, filed, exhibited or even discarded."],
+            "image": ["https://raw.githubusercontent.com/notjustacollective/https-notjustacollective.github.io-/main/archive_img/r1s/S_08.png"]
+        },
+        {
+            "title": "They are everywhere and they are armed, sometimes heavily",
+            "author": "Cristina Lavosi",
+            "code": "S_09",
+            "price": "€ 15,00",
+            "mail" : "cristinalavosi@hotmail.it",
+            "insta": "@cristinalavosi",
+            "story": ["This riso-printed book is a collection of critical writings on over-policing accompanied by a photographic essay on the mounted police and their exploitation of the horse’s image for legitimation purposes. Overall, the publication questions the contemporary pervasiveness of law enforcement, which infiltrates even our social and personal life. It condemns the constant reliance on punishment as a solution to socio-economic problems, eventually arguing for police abolition."],
+            "image": ["https://raw.githubusercontent.com/notjustacollective/https-notjustacollective.github.io-/main/archive_img/r1s/S_09.png"]
+        },
+        {
+            "title": "I found this symbol on my door, do I need to worry?",
+            "author": "Elisa Piazzi",
+            "code": "S_10",
+            "price": "€ 12,00",
+            "mail" : "elisapiazzi96@gmail.com",
+            "insta": "@eeee.ppppp",
+            "story": ["This book is the outcome of a personal fascination for thieves codes fund on the internet that developed into a collective process of research and interpretation. A reflection on semiotics and codes, misinterpretation and fear, where contrasting meanings exist equally and harmoniously next to each other."],
+            "image": ["https://raw.githubusercontent.com/notjustacollective/https-notjustacollective.github.io-/main/archive_img/r1s/S_10.png"]
+        },
+        {
+            "title": "Future fossils",
+            "author": "Sabina Scortanu",
+            "code": "S_11",
+            "price": "€ 8,00",
+            "mail" : "sabinascortanu0@gmail.com",
+            "insta": "@sabina.scortanu",
+            "story": ["The poster depicts an inevitable moment from a future where non biodegradable matter like glass loses its human-made purpose, and transforms into fossils which decompose for millions of years after humanity ceases its existence."],
+            "image": ["https://raw.githubusercontent.com/notjustacollective/https-notjustacollective.github.io-/main/archive_img/r1s/S_11_1.png"]
+        },
+        {
+            "title": "Commentary on the Apocalypse",
+            "author": "Sara",
+            "code": "S_12",
+            "price": "€ 15,00",
+            "mail" : "ssantana.bbaa@gmail.com",
+            "insta": "@sana_sartara",
+            "story": ["The 12th chapter of the Apocalypse with personal footnotes, emulating the Commentary of the Apocalypse by the medieval monk Beato de Liébana. The footnotes come from wikipedia, news articles, feminist theory, art research papers and poetry, distorting the reading of the biblical text. Those references has been useful as well for the re-interpretation of the medieval illustration of this chapter in the manuscript 'Beatus Facundus'. The publication unfolds into a full size reproduction of this re-interpreted illustration.", "The publication is a bilingual Spanish-English risographic printing."],
+            "image": ["https://raw.githubusercontent.com/notjustacollective/https-notjustacollective.github.io-/main/archive_img/r1s/S_12.png"]
+        },
+        {
+            "title": "IDOLS",
+            "author": "Hocus Bogus Publishing",
+            "code": "S_13",
+            "price": "€ 15,00",
+            "mail" : "hocusbogus.inc@gmail.com",
+            "insta": "@HBPublishing",
+            "story": ["A collage zine compiled from 3 seperate booklets; a Dutch Elvis scrapbook, a Greek Madonna magazine and a Flemisch painting catalogue. Xerox copied over Riso failed test prints."],
+            "image": ["https://raw.githubusercontent.com/notjustacollective/https-notjustacollective.github.io-/main/archive_img/r1s/S_13.png"]
+        },
+        {
+            "title": "Paratextile Magazine",
+            "author": "Alessandra Varisco",
+            "code": "S_14",
+            "price": "€ 20,00",
+            "mail" : "vrsc.alessandra@gmail.com",
+            "insta": "@paratextile_magazine",
+            "story": ["Paratextile Magazine is an alternative sewing and pattern-making publication, positioned in the field of niche fashion publishing. Paratextile Magazine addresses the gap between consumption and production in fashion, and in particular in fashion media. The publication aims to fill in this gap by providing text and do-it-yourself instructions to practice and read about clothes production. The purpose of this project is to create a space where knowledge, heritage, relationships, stories, and manners of making clothes can be narrated, both from the fashion industry and from other fashion systems. "],
+            "image": ["https://raw.githubusercontent.com/notjustacollective/https-notjustacollective.github.io-/main/archive_img/r1s/S_14.png"]
+        },
+        {
+            "title": "Reading my panties",
+            "author": "Lu Lin",
+            "code": "S_15",
+            "price": "€ 15,00",
+            "mail" : "lulinl.info@gmail.com",
+            "insta": "@u_lin_l",
+            "story": ["Reading My Panties is a collective zine initiated by Lu Lin for the underrepresented discussions on panties, drawing on theories of intersectionality and feminism. Panties, understood as an item of women’s undergarment for the lower body, record our daily usage and bodily maintenance. It’s like a locked diary that we use frequently but barely scrutinise and discuss."],
+            "image": ["https://raw.githubusercontent.com/notjustacollective/https-notjustacollective.github.io-/main/archive_img/r1s/S_15.png"]
+        },
+        {
+            "title": "Pizzerias NL",
+            "author": "Santiago Candelo",
+            "code": "S_16",
+            "price": "€ 12,00",
+            "mail" : "santi221@gmail.com",
+            "insta": "@candelo.santiago",
+            "story": ["Photographic register of pizzerias in The Netherlands by S.Candelo. Printed by Punta Lara ediciones."],
+            "image": ["https://raw.githubusercontent.com/notjustacollective/https-notjustacollective.github.io-/main/archive_img/r1s/S_16.png"]
+        },
+        {
+            "title": "Souvenirs",
+            "author": "Fernandi Di Francesco",
+            "code": "S_17",
+            "price": "€ 12,00",
+            "mail" : "santi221@gmail.com",
+            "insta": "@candelo.santiago",
+            "story": ["Souvenirs is a photo series from Buenos Aires by Di Francesco."],
+            "image": ["https://raw.githubusercontent.com/notjustacollective/https-notjustacollective.github.io-/main/archive_img/r1s/S_17.png"]
+        },
+        {
+            "title": "Poster PIzzerias NL",
+            "author": "Santiago Candelo",
+            "code": "S_18",
+            "price": "€ 5,00",
+            "mail" : "santi221@gmail.com",
+            "insta": "@candelo.santiago",
+            "story": ["Poster for pizzerias in The Netherlands"],
+            "image": ["https://raw.githubusercontent.com/notjustacollective/https-notjustacollective.github.io-/main/archive_img/r1s/S_18.png"]
+        },
+        {
+            "title": "Poster ARG",
+            "author": "Santiago Candelo",
+            "code": "S_19",
+            "price": "€ 5,00",
+            "mail" : "santi221@gmail.com",
+            "insta": "@candelo.santiago",
+            "story": ["Photographic register of pizzerias in The Netherlands by S.Candelo. Printed by Punta Lara ediciones."],
+            "image": ["https://raw.githubusercontent.com/notjustacollective/https-notjustacollective.github.io-/main/archive_img/r1s/S_19.png"]
+        },
+        {
+            "title": "What is a name? Why does everyone have a name? What purpose does it have? And for whom?",
+            "author": "Alma Kim",
+            "code": "S_20",
+            "price": "€ 50,00",
+            "mail" : "alma.sun.kim@gmail.com",
+            "insta": "@almasunkim",
+            "story": ["I couldn’t stop thinking that people initially started to use names for convenience only, but that names morphed into something more significant. A destiny can be attached to a name. But a name can’t define that. Then which name becomes the perfect name for someone or something?"],
+            "image": ["https://raw.githubusercontent.com/notjustacollective/https-notjustacollective.github.io-/main/archive_img/r1s/S_20.png"]
+        },
+        {
+            "title": "Dear transient, a miroloi for you",
+            "author": "Eleni Tsompanidou",
+            "code": "S_21",
+            "price": "€ 30,00",
+            "mail" : "noartjustlife@gmail.com",
+            "insta": "@noartjustlife",
+            "story": ["Dear transient, a miroloi for you; is an artist book publication created by Eleni Tsompanidou in collaboration with Pieter Augustijn.The publication is a continuation of Eleni's recent project, A Miroloi of Life, a participatory mail exchange around the topic of grief that took place during her residency at ARTisBOOK Foundation in Groningen at the end of 2020. Taking as a starting point the material of the mail exchange, Eleni, alongside Pieter, created a publication consisting of 100 artist books that aim to function as a platform for the collective exploration of the topic of grief. The book pages are screen-printed, making every copy unique, and the book also includes an interview/discussion between the artist and art historian Kyveli Lignou-Tsamantani."],
+            "image": ["https://raw.githubusercontent.com/notjustacollective/https-notjustacollective.github.io-/main/archive_img/r1s/S_21.png"]
+        },
+        {
+            "title": "Grumpy Lemon",
+            "author": "Studio Machii (Marit)",
+            "code": "S_22",
+            "price": "€ 3,00",
+            "mail" : "info@studiomachii.com",
+            "insta": "@HBPublishing",
+            "story": ["Short classicly folded zine about a rebellious grumpy lemon. (A7 size, A4 folded out (Poster on the back))"],
+            "image": ["https://raw.githubusercontent.com/notjustacollective/https-notjustacollective.github.io-/main/archive_img/r1s/S_22.png"]
+        },
+        {
+            "title": "Under the Rainbow- Over the Weather",
+            "author": "Dennis Munoz Espadina",
+            "code": "S_23",
+            "price": "€ 22,00",
+            "mail" : "hocusbogus.inc@gmail.com",
+            "insta": "@HBPublishing",
+            "story": ["Speculative fiction magazine with contributions by 16 international (comic)artists/writers/designers/curators/witches. Exploring the world in the 4th millennium through images, words and dreamscapes."],
+            "image": ["https://raw.githubusercontent.com/notjustacollective/https-notjustacollective.github.io-/main/archive_img/r1s/S_23.png"]
+        },
+        {
+            "title": "Cuteness; what we believe",
+            "author": "Areum Hwang",
+            "code": "S_24",
+            "price": "€ 10,00",
+            "mail" : "aroomformail@gmail.com",
+            "insta": "@a.room.ofmyown",
+            "story": ["The publication is a graphic image-based short essay,  based on the video essay of same title. Through researched online video(images), it reflects the behavioral tendency of women in Asian country and what is the ground of it."],
+            "image": ["https://raw.githubusercontent.com/notjustacollective/https-notjustacollective.github.io-/main/archive_img/r1s/S_24.png"]
+        },
+        {
+            "title": "Banistas de rio",
+            "author": "santi221@gmail.com",
+            "code": "S_25",
+            "price": "€ 10,00",
+            "mail" : "hocusbogus.inc@gmail.com",
+            "insta": "@candelo.santiago",
+            "story": ["Photo series of portraits made by Zanarenco during a summer afternoon of 2020. Nido del Aguila, Córdoba, Argentina.", "PUNTA LARA 026", "Photozine", "May 2022", "18 pages","A5"],
+            "image": ["https://raw.githubusercontent.com/notjustacollective/https-notjustacollective.github.io-/main/archive_img/r1s/S_25.png"]
+        },
+        {
+            "title": "Landmarks",
+            "author": "Alice Alloggio",
+            "code": "S_26",
+            "price": "€ 15,00",
+            "mail" : "alice.alloggio@gmail.com",
+            "insta": "@alicealloggio",
+            "story": ["Something on the wall was capturing my attention. Soon, I realized that the lace was rhythmically appearing and disappearing on the concrete. The blowing wind was gently moving it. The sun did the rest.","Motivated by personal urgencies of belonging, I have started to collect non-human, ephemeral elements of the landscape, like rocks and shadows, in an analog archive of printed objects. This research methodology became a crucial part of my practice that revolves around inhabiting practices and the relationship we build with and through spaces.", "The prints are a selection from a photographic series shoot in Venice in 2021."],
+            "image": ["https://raw.githubusercontent.com/notjustacollective/https-notjustacollective.github.io-/main/archive_img/r1s/S_26.png"]
+        },
+        {
+            "title": "Mandu",
+            "author": "Lee Yoyo(Euna) & Jongyeom Park",
+            "code": "S_27",
+            "price": "€ 12,00",
+            "mail" : "yoyoyoyo2001999@gmail.com",
+            "insta": "@20mayoyo20",
+            "story": ["This book, made by Lee yoyo and Park Jongyeom, guides you to make your own Mandu (Korean Dumpling) recipe. After a short survey on your taste, you’ll do a mandu adventure crossing pages."],
+            "image": ["https://raw.githubusercontent.com/notjustacollective/https-notjustacollective.github.io-/main/archive_img/r1s/S_27.png"]
+        },
+        {
+            "title": "31mars Salle31bis Lumiere mouvement",
+            "author": "Gaby Mahey",
+            "code": "S_28",
+            "price": "€ 18,00",
+            "mail" : "hello@gabymahey.fr",
+            "insta": "@gabymahey",
+            "story": ["This edition show 14 images taken the same day at different time while the sun was running on the wall. It is an ode to solitude and an invitation to slowdown. It comes in an envelope with a thermal printed roll, which –with time and light– will eventually disappear."],
+            "image": ["https://raw.githubusercontent.com/notjustacollective/https-notjustacollective.github.io-/main/archive_img/r1s/S_28.png"]
+        },
+        {
+            "title": "26avril Cube LumiereSurNoir",
+            "author": "Gaby Mahey",
+            "code": "S_29",
+            "price": "€ 120,00",
+            "mail" : "hello@gabymahey.fr",
+            "insta": "@gabymahey",
+            "story": ["This edition gathers 12 screen-printed cards, of six images printed on both white and black cards. It is a collection of experiments, where I used silkscreen to represent light, and compare the impact of a black or white format on the prints."],
+            "image": ["https://raw.githubusercontent.com/notjustacollective/https-notjustacollective.github.io-/main/archive_img/r1s/S_29.png"]
+        },
+        {
+            "title": "Je ne veux surtout pas te rendre triste (I don't want to make you sad)",
+            "author": "Lady Gueguette",
+            "code": "S_30",
+            "price": "€ 25,00",
+            "mail" : "marion.guerineau22@gmail.com",
+            "insta": "@ladygueguette",
+            "story": ["What happens after coitus? What happens when you want to go further but have made a mistake? When we surrender, when we show feelings (probably superficial) but those feelings are scary? These real excerpts from text conversations show the gap between flirtation, the crescendo towards the culmination of a desire and the decrescendo, what are we left with after?"],
+            "image": ["https://raw.githubusercontent.com/notjustacollective/https-notjustacollective.github.io-/main/archive_img/r1s/S_30.png"]
+        },
+        {
+            "title": "Unheavy Questions",
+            "author": "Katie Ford",
+            "code": "S_31",
+            "price": "€ 10,00",
+            "mail" : "katie@katie-ford.com",
+            "insta": "@_katie.ford_",
+            "story": ["“Unheavy Questions” is a digitally printed zine with an accordion structure. It explores the idea of weight as a physical sensation and an emotional metaphor. Against the collaged and painted backgrounds, the hand-written text asks many questions and provides few answers."],
+            "image": ["https://raw.githubusercontent.com/notjustacollective/https-notjustacollective.github.io-/main/archive_img/r1s/S_31.png"]
+        },
+        {
+            "title": "Een lichaam beweegt, zich door dit huis (transl: A body moves, through this house)",
+            "author": "Catelijne Boele",
+            "code": "S_32",
+            "price": "€ 11,00",
+            "mail" : "catelijne.boele@outlook.com",
+            "insta": "@catelijneboele",
+            "story": ["The publication was made during the first COVID-lockdown in the spring of 2020. The writings and drawings question the relationship with the new, inescapable environment: home.", "After making multiple hand-drawn publications, I delivered them personally to people their homes -attempting to build connections with others in precarious times."],
+            "image": ["https://raw.githubusercontent.com/notjustacollective/https-notjustacollective.github.io-/main/archive_img/r1s/S_32.png"]
+        },
+        {
+            "title": "Autoarachnology",
+            "author": "Julia Wilhelm",
+            "code": "S_33",
+            "price": "€ 4,00",
+            "mail" : "julia.wilhelm@protonmail.com",
+            "insta": "@jellyfishashore",
+            "story": ["This publication ventures on a poetic exploration about the relationship between the spider and her web and speculates how this can facilitate to look at cultural practices differently. Autoarachnology is an attempt at finding ways to navigate neoliberal infrastructures in search of recipes for weaving, stitching, and knotting otherwise webs."],
+            "image": ["https://raw.githubusercontent.com/notjustacollective/https-notjustacollective.github.io-/main/archive_img/r1s/S_33.png"]
+        },
+        {
+            "title": "Beekbergen, June 13, 2020, 14:36",
+            "author": "Maite Vanhellemont",
+            "code": "S_34",
+            "price": "€ 35,00",
+            "mail" : "maitevanhellemont@hotmail.com",
+            "insta": "@maitevanhellemont",
+            "story": ["A2 riso prints from the publication ‘Our Silver Lining’ on EOS 2.0 90gr paper. Available in 3 editions of 30, numbered & signed."],
+            "image": ["https://raw.githubusercontent.com/notjustacollective/https-notjustacollective.github.io-/main/archive_img/r1s/S_34.png"]
+        },
+        {
+            "title": "The series on sun - June",
+            "author": "Hikari Nishida",
+            "code": "S_35",
+            "price": "€ 15,00",
+            "mail" : "hikanishida@gmail.com",
+            "insta": "@hikanishida ",
+            "story": ["The series on sun – June, is a publication dealing with temporality, sunlight and collaborating with an inkjet printer. It was sold in a vending machine for Kiasma Theatre, in Helsinki, Finland, and consists of a handwritten poem and images + an A4 image printed by Inkjet HP Deskjet 4120e."],
+            "image": ["https://raw.githubusercontent.com/notjustacollective/https-notjustacollective.github.io-/main/archive_img/r1s/S_35.png"]
+        },
+        {
+            "title": "We Are QueerSoftOrange",
+            "author": "QueerSoftOrange",
+            "code": "S_36",
+            "price": "FREE",
+            "mail" : "queersoftorange@gmail.com",
+            "insta": "@queersoftorange",
+            "story": ["Riso printed poster for dissemination. Designed featuring our manifesto on one side, and a participatory call for collaborations in the form of a classified ad on the other. The design of this poster highlights the importance of oral and written histories of queer marginalia, ephemera, zines, posters, and buttons etc."],
+            "image": ["https://raw.githubusercontent.com/notjustacollective/https-notjustacollective.github.io-/main/archive_img/r1s/S_36.png"]
+        },
+        {
+            "title": "Family Dinner",
+            "author": "Charli Herrington",
+            "code": "S_37",
+            "price": "€ 18,00",
+            "mail" : "familydinnerrotterdam@gmail.com",
+            "insta": "@familydinnerrotterdam",
+            "story": ["Family Dinner is a cookbook / collection of printed works, as well as a documentation of the first edition of the Family Dinner residency in which a group of artists gathered to study, discuss and work through the themes of hospitality, sharing and gifts.", "Family Dinner is an art space/residency/project/dream starting from the basis of food and community, organized by Charli Herrington and Gordon H. Williams. It is built upon a collective research on reproductive labor— not just cooking and collecting recipes, but an experiment through learning, cooking, eating and cleaning together. Family Dinner is based in Rotterdam and focuses on supporting local artists, food growers and reproductive laborers."],
+            "image": ["https://raw.githubusercontent.com/notjustacollective/https-notjustacollective.github.io-/main/archive_img/r1s/S_37.png"]
+        },
+        {
+            "title": "kuku, kaka, cucu",
+            "author": "Raul Balai",
+            "code": "S_38",
+            "price": "€ 22,00",
+            "mail" : "letter@raulbalai.com",
+            "insta": "@raulbalai",
+            "story": ["- three different A6-sized booklets of around 26 pages (some pages are folded inside)","- stencilprinted (Riso) multiple colors (yellow, fluor pink, red, blue and green)", "- sleeve cover size 26 x 12 cm", "- singer stitched and wrapped together in a folded sleeve cover","- all three booklets have perforated sides","In the series Heen- en Weerwolf an artist is invited to travel back in time. The 'Weerwolf' is an artist who travels between past and present and delves into a small piece of history out of personal interest. In this second edition of Heen- en Weerwolf, visual artist Raul Balai reverses history.  See: https://extrapool.patternbyetsy.com/listing/1154888766/kuku-kaka-cucu-by-raul-balai"],
+            "image": ["https://raw.githubusercontent.com/notjustacollective/https-notjustacollective.github.io-/main/archive_img/r1s/S_38.png"]
+        },
+        {
+            "title": "XEROXED: wearable pages, readable garments ",
+            "author": "Alia Mascia",
+            "code": "S_39",
+            "price": "follow price tag",
+            "mail" : "martinaaliamascia@gmail.com",
+            "insta": "@aliamascia",
+            "story": ["I am the only person working on the project. As regards the material printed on the garments, it comes from a private archive belonging to my family that first started to be kept in 1974 and went on growing until the end of 2001 when it was put on hold. In 2016 I took the archive in hand and tried to reconstruct it, adding missing items and new acquisitions."],
+            "image": ["https://raw.githubusercontent.com/notjustacollective/https-notjustacollective.github.io-/main/archive_img/r1s/S_39.png"]
+        },
+        {
+            "title": "HABITUS Manual",
+            "author": "Marieke Gelissen",
+            "code": "S_40",
+            "price": "€ 5,00",
+            "mail" : "martinaaliamascia@gmail.com",
+            "insta": "@marieke.gelissen",
+            "story": ["The HABITUS Manual is a self published folded A2 that contains instructiona on how to recreate the quartz crystal shape using materials already present in most homes: a potato and a small pairing knife. Designed by Dongyoung Lee, printed by Drukkerij Raddraaier SSP."],
+            "image": ["https://raw.githubusercontent.com/notjustacollective/https-notjustacollective.github.io-/main/archive_img/r1s/S_40.png"]
+        },
+        {
+            "title": "Footprint",
+            "author": "Theetat Thunkijjanukij",
+            "code": "S_41",
+            "price": "€ 12,00",
+            "mail" : "theetat.th@gmail.com",
+            "insta": "",
+            "story": ["It happened, one day about noon going towards my boat, I was exceedingly surprised, with the print of a man’s naked foot on the shore, which was very plain to be seen in the sand."],
+            "image": ["https://raw.githubusercontent.com/notjustacollective/https-notjustacollective.github.io-/main/archive_img/r1s/S_41.png"]
+        },
+        {
+            "title": "Wormholes (mind-map)",
+            "author": "Asselineau/Vratsanou (Anouk Asselineau & Myrto Vratsanou",
+            "code": "S_42",
+            "price": "€ 5,00",
+            "mail" : "myrto.vratsanou@proton.me",
+            "insta": "@myretuev",
+            "story": ["A3, double-sided poster / Offset print, green & metallic grey", "A map of media that deal with time, space and language in overlapping ways. Constellations of films and novels which posit that spacetime can be folded, flattened, entered and exited, and that language, scale and matter affect its impact on us."],
+            "image": ["https://raw.githubusercontent.com/notjustacollective/https-notjustacollective.github.io-/main/archive_img/r1s/S_42.png"]
+        },
+        {
+            "title": "Display →",
+            "code": "",
+            "author": "past",
+            "story": "",
+            "image": ""
+        },
+        {
+            "title": "Let's Look At Connection",
+            "author": "Lot Benjamins",
+            "code": "D_01",
+            "mail" : "L.benjamins@student.artez.nl",
+            "insta": "@projectcaravan.nl",
+            "story": ["Researching libraries as a social structure, the booklet is a workshop in needle felting and moments of togetherness, to be read/ done together. It is placed on an interactive stand that you can felt on as well. With this project I research infrastructures of togetherness and how to build them."],
+            "image": ["https://raw.githubusercontent.com/notjustacollective/https-notjustacollective.github.io-/main/archive_img/r1d/D_01.png"]
+        },
+        {
+            "title": "Gossiping Garments - A Pillow Book",
+            "author": "Lianca van der Merwe",
+            "code": "D_02",
+            "mail" : "hibernation.visalibons@gmail.com",
+            "insta": "https://www.hibernation.gay",
+            "story": ["The poem, Gossiping Garments, investigates the unseen and unknown impact of wearing/producing clothes and explores fashion’s physical as well as metaphysical dimensions. The poem is printed on pillows (for people to sit on) and read out loud during meditation workshops. When tied together the pillows form a book - a journal of personal ruminations and crowdsourced secrets.", "www.instagram.com/lala3xl/, http://artletics.space/index.php/gossiping-clothes/", "I wrote the poem. The photos were taken by Charlotte Verdegaal and Katrien Potgieter. Drawings by Glendys Hoepelman. The pillows also have secrets printed on them in UV ink that is only visible under bright light. I collected these at the OnLive festival organized by ArtEZ Home of Performance Practices."],
+            "image": ["https://raw.githubusercontent.com/notjustacollective/https-notjustacollective.github.io-/main/archive_img/r1d/D_02.png"]
+        },
+        {
+            "title": "Let's Look At Connection",
+            "author": "Lot Benjamins",
+            "code": "D_01",
+            "mail" : "L.benjamins@student.artez.nl",
+            "insta": "@projectcaravan.nl",
+            "story": ["Researching libraries as a social structure, the booklet is a workshop in needle felting and moments of togetherness, to be read/ done together. It is placed on an interactive stand that you can felt on as well. With this project I research infrastructures of togetherness and how to build them."],
+            "image": ["https://raw.githubusercontent.com/notjustacollective/https-notjustacollective.github.io-/main/archive_img/r1d/D_01.png"]
+        },
+        {
+            "title": "Untitled",
+            "author": "Isa Bongers",
+            "code": "D_03",
+            "mail" : "isabongers2001@gmail.com",
+            "insta": "@bongersisa",
+            "story": ["A work from my ongoing research on the potential of found images. The work consists of 56 microscopic photographs made from one film still. They are printed on transparent plastic and hand-sewn together. By doing this I investigate the abstraction of images, and how much possibilities there are to find in one singular image."],
+            "image": ["https://raw.githubusercontent.com/notjustacollective/https-notjustacollective.github.io-/main/archive_img/r1d/D_03.png"]
+        },
+        {
+            "title": "Prints and patterns",
+            "author": "Mémé Bartels",
+            "code": "D_04",
+            "mail" : "2meme@xs4all.nl",
+            "insta": "@memebartels ",
+            "story": ["A handmade book, with transfer prints on handmade paper of prints and patterns in my house."],
+            "image": ["https://raw.githubusercontent.com/notjustacollective/https-notjustacollective.github.io-/main/archive_img/r1d/D_04.png"]
+        },
+        {
+            "title": "Ultimate guide for people who are not close enough to me to ask about my name.",
+            "author": "Alma Kim",
+            "code": "D_05",
+            "mail" : "alma.sun.kim@gmail.com",
+            "insta": "@almasunkim",
+            "story": ["As an Asian with a European name, I’ve got some questions about my name since I moved to the Netherlands. Like the title of the thesis, I explained my journey of how I decided to use Alma as my name."],
+            "image": ["https://raw.githubusercontent.com/notjustacollective/https-notjustacollective.github.io-/main/archive_img/r1d/D_05.png"]
+        },
+        {
+            "title": "Bifid Readings",
+            "author": "Sad Belongings Press",
+            "code": "D_06",
+            "mail" : "ssantana.bbaa@gmail.com",
+            "insta": "@santa_sartara",
+            "story": ["Bifid Readings is a free assembling publication holding together three different subjective translations done by the Colombian publishing house Hambre Libros, curator Rosa Paardenkooper and designer Mariana Saldarriaga Calderón. In March 2022, they were invited to talk about ways of reading and the possibilities of making, sharing and transforming the book from the reader's position. From those broadcasted conversation came this fragmentary publication composed by three posters: each fragment comes from a reading dear to the three participants and have been translated through their eyes and tongues, transformed by their understanding. The publication is multilingual and was distributed and collectivelly read outloud in an exhibition in Amsterdam. Readings and interviews are available at www.bifidreadings.com and at https://www.jajajaneeneenee.com/shows/rosa-paardenkooper/", "Bifid Readings was an experimental publishing project exploring reading as a polyphonic and transformative action. The publication was translated into Dutch by Rosa Paardenkooper and printed in Amsterdam in 2022."],
+            "image": ["https://raw.githubusercontent.com/notjustacollective/https-notjustacollective.github.io-/main/archive_img/r1d/D_06.png"]
+        },
+        {
+            "title": "lūnāris",
+            "author": "mariona",
+            "code": "D_07",
+            "mail" : "maco200121@gmail.com ",
+            "insta": "@mariona.codol",
+            "story": ["a landscape that takes you out of the loop and invites you to an off-earth experience. A landscape that is more lunar than terrestrial.", "lūnāris is a Riso-printed book made this year (2022) that collects images of that lunar landscape in the natural park of Cap de Creus, Girona, taken in 2020 on film. "],
+            "image": ["https://raw.githubusercontent.com/notjustacollective/https-notjustacollective.github.io-/main/archive_img/r1d/D_07.png"]
+        },
+        {
+            "title": "libretto for songs for friends: a vinyl",
+            "author": "ashley ho & domenik naue",
+            "code": "D_08",
+            "mail" : "hoyuhanashley@gmail.com",
+            "insta": "@asheyho",
+            "story": ["this is a 'libretto' for our performance «songs for friends: a vinyl». it is not a limp accompaniment but also a performer in the work."],
+            "image": ["https://raw.githubusercontent.com/notjustacollective/https-notjustacollective.github.io-/main/archive_img/r1d/D_08.png"]
+        },
+        {
+            "title": "Ouch!",
+            "author": "Melanie Wróblewska ",
+            "code": "D_09",
+            "mail" : "",
+            "insta": "@melaniewroblewska",
+            "story": ["Collection of poems written during lockdown blended with found footage from Flickr."],
+            "image": ["https://raw.githubusercontent.com/notjustacollective/https-notjustacollective.github.io-/main/archive_img/r1d/D_09.png"]
+        },
+        {
+            "title": "Hallucinatory Landscape of Derangement ",
+            "author": "Melanie Wróblewska",
+            "code": "D_10",
+            "mail" : "",
+            "insta": "@melaniewroblewska",
+            "story": ["Melanie Wroblewska collects information found on social media, AliExpress, on the street, in a doctor's waiting room and creates collages from words. She also writes down her dreams and then analyses them. This narrative tells the story of a young woman living in a time of permanent crisis, disasters and conflicts. Referring to current events - social and political, technological advances, the artist observes their impact on collective emotionality and moods."],
+            "image": ["https://raw.githubusercontent.com/notjustacollective/https-notjustacollective.github.io-/main/archive_img/r1d/D_10.png"]
+        },
+        {
+            "title": "Biogame. Here and now, the anthropocene",
+            "author": "Ana Laura Cantera",
+            "code": "D_11",
+            "mail" : "ssantana.bbaa@gmail.com",
+            "insta": "@santa_sartara",
+            "story": ["It is an artist´s game about  creations of speculative fictions and radical thinking concerning  natures, anthropocene and political ecology. It is composed of cards of different categories (aesthetic concepts, artistic practices and non-human agents) which propose to create narratives through the combination of words by the hand of a roulette."],
+            "image": ["https://raw.githubusercontent.com/notjustacollective/https-notjustacollective.github.io-/main/archive_img/r1d/D_11.png"]
+        },
+        {
+            "title": "mending book",
+            "author": "Juliana Garcia Bello",
+            "code": "D_12",
+            "mail" : "",
+            "insta": "",
+            "story": [""],
+            "image": ["https://raw.githubusercontent.com/notjustacollective/https-notjustacollective.github.io-/main/archive_img/r1d/D_12.png"]
+        }
+    ]
+}

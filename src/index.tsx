@@ -1,15 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import { RecoilRoot } from 'recoil';
-import { ThemeProvider } from 'styled-components';
-import { theme } from './theme';
 import App from "./App";
 
 import { createGlobalStyle } from "styled-components";
 
 const GlobalStyle = createGlobalStyle`
-@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400&display=swap');
-html, body, div, span, applet, object, iframe,
+@import url('https://fonts.googleapis.com/css2?family=Inknut+Antiqua&display=swap');html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
 del, dfn, em, img, ins, kbd, q, s, samp,
@@ -26,7 +23,7 @@ time, mark, audio, video {
   padding: 0;
   border: 0;
   font-size: 100%;
-  font: inherit;
+  font-family: 'Inknut Antiqua', serif;
   vertical-align: baseline;
 }
 /* HTML5 display-role reset for older browsers */
@@ -60,14 +57,31 @@ table {
   box-sizing: border-box;
 }
 body {
-  font-weight: 300;
-  font-family: 'Source Sans Pro', sans-serif;
-  color:black;
-  line-height: 1.2;
+  font-weight: 200;
+  font-family: 'Inknut Antiqua', serif;
+  color: #eceae8;
+  line-height: 1.3;
+  background-color: #eceae8;
+  font-size: 2vw;
 }
 a {
   text-decoration:none;
   color:inherit;
+}
+
+img{
+  width: 50vw;
+  // margin: 0 7vw;
+}
+
+h1{
+  font-weight: normal;
+}
+
+@media only screen and (max-width: 768px){
+  body{
+    font-size: 22px;
+  }
 }
 `;
 
@@ -78,11 +92,9 @@ root.render(
   <div>
     <React.StrictMode>
     <RecoilRoot>
-      <ThemeProvider theme={theme}>
-        <GlobalStyle />
-        <App />
-      </ThemeProvider>
+          <GlobalStyle />
+          <App />
     </RecoilRoot>
-  </React.StrictMode>,
+  </React.StrictMode>
   </div>
 );
