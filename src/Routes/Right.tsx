@@ -17,19 +17,21 @@ const Wrapper =styled.div`
 `;
 
 const Content = styled.div`
+  height: 100vh;
   z-index: 1;
   position: relative;
   text-align: left;
   padding: 5vh 3vw;
   text-align: center;
+  background-image: url("https://euna-lee.com/mandu_img/bg.gif");
+  background-size: cover;
   @media only screen and (max-width: ${Mobile}px){
-
+    height: 65vh;
   }
 `;
 
 const Img = styled(motion.img)`
   padding: 18vh 0;
-  filter: drop-shadow(15px 7px 8px #faa9d5);
   cursor: pointer;
   width: 30vw;
 
@@ -40,20 +42,13 @@ const Img = styled(motion.img)`
 `;
 
 
-const Video = styled.video`
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  object-fit: cover;
-  z-index: 0;
-
-  @media only screen and (max-width: ${Mobile}px){
-    height: 65vh;
-  }
-`;
-
 const Map = styled.div`
-    a{
+  position: absolute;
+  bottom: 5vh;
+  left:0;
+  width: 100%;
+  text-align: center;  
+  a{
         padding-right: 1.5vw;
     }
     
@@ -71,9 +66,6 @@ function Right(){
     return(
     <Wrapper>
     <AnimatePresence mode='wait'>
-      <Video muted loop>
-            <source src="https://euna-lee.com/mandu_img/background2.mp4" type="video/mp4"/>
-          </Video>
       <audio id="myaudio" src="https://euna-lee.com/mandu_img/popop.wav"></audio>
     <Content>
       Not just a Collective<br/>

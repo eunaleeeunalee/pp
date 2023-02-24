@@ -2,11 +2,11 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import { RecoilRoot } from 'recoil';
 import App from "./App";
+import 'bootstrap/dist/css/bootstrap.css';
 
 import { createGlobalStyle } from "styled-components";
 
 const GlobalStyle = createGlobalStyle`
-@import url('https://fonts.googleapis.com/css2?family=Inknut+Antiqua&display=swap');html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
 del, dfn, em, img, ins, kbd, q, s, samp,
@@ -23,7 +23,7 @@ time, mark, audio, video {
   padding: 0;
   border: 0;
   font-size: 100%;
-  font-family: 'Inknut Antiqua', serif;
+  font-family: 'Inconsolata', monospace;
   vertical-align: baseline;
 }
 /* HTML5 display-role reset for older browsers */
@@ -57,25 +57,26 @@ table {
   box-sizing: border-box;
 }
 body {
-  font-weight: 200;
-  font-family: 'Inknut Antiqua', serif;
-  color: #eceae8;
-  line-height: 1.3;
-  background-color: #eceae8;
-  font-size: 2vw;
+  // background-color: #fff254;
+  background-color: hsl(0, 0%, 90%);
+  font-family: 'Inconsolata', monospace;
+  font-size: 1.4vw;
+  line-height: 2.2vw;
+  margin: 6vh 7vw;
 }
+
+h1{
+  font-size: 2vw;
+  margin-bottom: 2vh;
+}
+
 a {
   text-decoration:none;
   color:inherit;
 }
 
-img{
-  width: 50vw;
-  // margin: 0 7vw;
-}
-
-h1{
-  font-weight: normal;
+hr {
+  border: 1px solid black;
 }
 
 @media only screen and (max-width: 768px){
