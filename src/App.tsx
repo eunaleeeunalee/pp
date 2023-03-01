@@ -1,8 +1,19 @@
 import { HashRouter as Router, Switch, Route, Link } from "react-router-dom";
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import { Helmet } from "react-helmet";
+import styled from "styled-components";
 import Home from "./Routes/Home";
+
 // import About from "./Routes/About";
+
+const Mobile = 768;
+
+const Wrapper =styled.div`
+  display:flex; 
+  @media only screen and (max-width: ${Mobile}px){
+
+  }
+`;
 
 
 function App() {
@@ -14,12 +25,13 @@ function App() {
         <title>REACTFLIX</title>
       </Helmet>
       <Switch>
-        {/* <Route path="/about">
-          <About />
-        </Route> */}
-        <Route exact path={["/"]}>
-          <Home />
-        </Route>
+
+        <Wrapper>
+          {/* <Right/> */}
+          <Route path="/">
+            <Home />
+          </Route>
+        </Wrapper>
       </Switch>
 
       

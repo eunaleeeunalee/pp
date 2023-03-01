@@ -1,62 +1,51 @@
 import { motion, AnimatePresence } from 'framer-motion';
 import { useState } from 'react';
 import styled from 'styled-components';
+import { Link } from 'react-router-dom';
 
-const ItemWrap = styled(motion.li)`
+const ItemWrap = styled(motion.div)`
     cursor: pointer;
     display:flex;
     align-items:center;
     justify-content:space-between;
-    border-top:1px solid #eee;
-    border-bottom:1px solid #eee;
-    margin-top:-1px;
-    background: white;
     overflow: hidden;
+    // padding: 0 ;
+    
 
-    h1{
-        padding:22px 30px 21px 30px;
-        font-size:15px;
-        z-index:1;
-        opacity:0.9;
+    span{
+        opacity:0;   
+        transition: all 0.5s ease-out;
+        margin-right: 0;
     }
-`
 
-const Img = styled(motion.div)`
-    width:40px;
-    height:40px;
-    overflow: hidden;
-    border-radius:50%;
-    margin:0 30px 0 0;
-    display:flex;
-    justify-content:center;
-    align-items:center;
-
-    img{
-        width:32px;
-        height:32px;
-        border-radius:50%;
-        vertical-align:bottom;
+    &:hover{
+        text-decoration: underline;
+        span{
+            opacity:1;
+        }
     }
 `
 
 const SubWrap = styled(motion.div)`
-    font-size:15px;
     height:auto;
     width:100%;
     display:flex;
     flex-direction: column;
-    background: white;
+    font-weight: 400;
+    padding: 0 2.5vw 3vh 2.5vw;
+    text-align: left;
+`
 
-    h5{
-        padding:20px 30px;
-        font-weight:500;
-        line-height:150%;
-        text-align:left;
+const H3left = styled(motion.h3)`
+    float: left;
+`
+
+const Para = styled.p`
+    padding-bottom: 2.4vh;
+    &:last-child{
+        padding-bottom: 0;
     }
-
-    :last-child{
-        border-radius:0 0 20px 20px;
-    }`
+`
 
 
 interface ItemProps{
@@ -72,26 +61,65 @@ interface titleProps{
 const Item = ({ item }: ItemProps) => {
     const [isOpen, setIsOpen] = useState(false);
     const toggleOpen = () => setIsOpen(!isOpen);
-
     return (
         <>
-            <ItemWrap onClick={toggleOpen} layout transition={{ duration: 0.3, ease: [0.43, 0.13, 0.23, 0.96] }} key={item.title}>
-                <motion.h1>{item.title}</motion.h1>
+            <ItemWrap 
+                onClick={toggleOpen} 
+                layout 
+                transition={{ duration: 0.3, ease: [0.43, 0.13, 0.23, 0.96] }}
+                whileHover={{x:5}} 
+                key={item.title}>
+                <H3left>
+                {item.title}<span> ▹</span>
+                </H3left>
             </ItemWrap>
+
             <AnimatePresence initial={false} >
-                {isOpen && (
+                {isOpen && item.id==="2"? 
                     <SubWrap>
-                        <motion.h5 layout
-                            initial={{ y: -10, opacity: 0 }}
-                            animate={{ y: 0, opacity: 1 }}
-                            exit={{ opacity: 0 }}
-                            transition={{ duration: 0.3, ease: [0.43, 0.13, 0.23, 0.96] }}
-                        >{item.subtitle}</motion.h5>
-                    </SubWrap>
-                )}
+                    <motion.div layout
+                        initial={{ y: -10, opacity: 0 }}
+                        animate={{ y: 0, opacity: 1 }}
+                        exit={{ opacity: 0 }}
+                        transition={{ duration: 0.3, ease: [0.43, 0.13, 0.23, 0.96] }}
+                    >
+                        <Hello/>
+                    </motion.div>
+                </SubWrap>:null}
+                {isOpen && item.id==="1"? 
+                <SubWrap>
+                <motion.div layout
+                    initial={{ y: -10, opacity: 0 }}
+                    animate={{ y: 0, opacity: 1 }}
+                    exit={{ opacity: 0 }}
+                    transition={{ duration: 0.3, ease: [0.43, 0.13, 0.23, 0.96] }}
+                >
+                    <a href="https://drive.google.com/file/d/1Od3Y_stVOQLfpxXbKNNcpQTyK7wV_RfG/view?usp=sharing" target="_blank">CV</a>
+                    </motion.div>
+                </SubWrap>:null
+                }
             </AnimatePresence>
+            {/* {item.id==="3" ?null:<hr/>} */}
+            <hr/>
         </>
     )
 }
-export default Item;
 
+const Hello = () => {
+    return(
+        <>
+            <motion.div>
+                <Link to="/njac">Not Just a Collective</Link><br/>
+                <Link to="/nf">Netflix Clone</Link><br/>
+                <Link to="/mandu">Mandu</Link><br/>
+                <Link to="/kip">Kip Your Job Search</Link><br/>
+                <Link to="/sc">Strolling Cat</Link><br/>
+                <Link to="/kg">K-Eldest Girl</Link><br/>
+                <Link to="/mp">Mayoyo Publishing</Link><br/>
+            </motion.div>
+        </>
+    )
+}
+
+
+export default Item; 

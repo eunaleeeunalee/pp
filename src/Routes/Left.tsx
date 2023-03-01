@@ -5,49 +5,36 @@ import styled from "styled-components";
 import Item from "./About_text"
 
 const Container = styled(motion.div)`
-margin:200px auto 0 auto;
-width:50%;
 text-align:center;
-
-ul{
-  background:#fff;
-  margin:0 auto;
-}
+font-size: 1.2vw;
 `
 
 
 const items = [
     {
         id: "1",
-        title: "lolo",
-        subtitle: "lololo",
+        title: "Info",
+        subtitle: "React, Typescript",
     },
     {
-        id: "2",
-        title: "lala",
-        subtitle: "lalala",
-    },
-    {
-        id: "3",
-        title: "lele",
-        subtitle: "lelele",
+      id: "2",
+      title: "Work",
+      subtitle: "React, Typescript",
     }
 ]
 
-const About = () => {
+const Left = () => {
     return (
-      <AnimatePresence initial={false}>
       <LayoutGroup>
         <Container>
-          <motion.ul layout transition={{ duration: 0.3, ease: [0.43, 0.13, 0.23, 0.96] }}>
+          <motion.div layout transition={{ duration: 0.3, ease: [0.43, 0.13, 0.23, 0.96] }}>
             {items.map(item => (
               <Item key={item.id} item={item} />
             ))}
-          </motion.ul>
+          </motion.div>
         </Container>
       </LayoutGroup>
-      </AnimatePresence>
     )
   }
-  export default About;
+  export default Left;
   

@@ -1,86 +1,108 @@
+import { useLocation, useHistory, useRouteMatch } from "react-router-dom";
 import styled from "styled-components";
-import { motion, AnimatePresence } from "framer-motion";
-import { useState } from "react";
-import { Link } from "react-router-dom";
-import About from "./About"
+import { motion } from "framer-motion";
+import Info from "./Info";
+
 
 
 const Mobile = 768;
 
-const Wrapper =styled.div`
-
-  @media only screen and (max-width: ${Mobile}px){
-
-  }
-`;
-
-const Intro =styled.div`
-`;
-
-const Tete = styled.img`
-    float: left;
-    width: 7vw;
-    margin: 2vh 3vw 2vh 0;
+const Wrapper = styled.div`
+    width: 73vw;
+    margin: 4vh 1vw 3vh 26vw;
 `
 
-const Hr = styled.hr`
-    border: 2px solid black;
-`;
+const Para = styled.div`
+    padding-bottom: 2.4vh;
+    max-width: 35vw;
+    &:last-child{
+        padding-bottom: 0;
+    }
+    p{
+        padding-top: 1.8vh;
+    }
+`
 
-const Menu =styled.div`
-  margin: 6vh 0 0 0;
-  span{
-      font-weight: 600;
-      margin-right: 24vw;
-  }
-`;
+const Title = styled.div`
+  font-size: 2.4vw;
+  height: 5vh;
+`
 
-const Bottom =styled.div`
-  text-align: center;
-`;
+const Img = styled.img`
+    width: 71vw;
+    border-radius: 2vw;
+    margin-bottom: 2vh;
+`
+
+const Git = styled.img`
+  height: 3vh;
+`
 
 
 function Home(){
-    const [tete, setTete] = useState('https://euna-lee.com/img/tete.png');
-
-    const onMouseOver = () => {
-        setTete('https://euna-lee.com/img/gif.gif');
-    }
-
-    const onMouseOut = () => {
-        setTete('https://euna-lee.com/img/tete.png');
-    }
+  const location = useLocation();
+   console.log(location.pathname)
     return(
     <>
     <Wrapper>
-    
-        <Intro>
-            <h1>Euna Lee</h1>
-            <Tete 
-                key="tete"
-                src={tete} 
-                onMouseOver={onMouseOver} 
-                onMouseOut={onMouseOut}/>
-            My name is Euna Lee, I'm a front-end developer and graphic designer based in Rotterdam, the Netherlands. I've been developing & designing websites for artists and websites as art projects.
-            <br/>
-            Passionated about playful design and typography, I'm focused on how to turn a website into a virtual playground.
-        </Intro>
-        
-        <Menu>
-                <span><Link to="/">About</Link></span>
-                <span><Link to="/project">Project</Link></span>
-            <Hr/>
-              <About/>
-                
-
-            <Hr/>
-        </Menu>
-
-        <Bottom>This website has been updated on february 23th 2023 by Euna Lee</Bottom>
-
-    
+      {location.pathname ==="/"?
+        <Contact/>
+      :null}
+      {location.pathname === "/mandu"? 
+        <Mandu/>
+      :null}
+      {location.pathname === "/nf"? 
+        <Nf/>
+      :null}
+      {location.pathname === "/info"? 
+        <Info/>
+      :null}
     </Wrapper></>
     )
+}
+
+const Contact = () => {
+  return(
+    <div>
+      <motion.img src="https://euna-lee.com/img/tete.png"/>
+    </div>
+  )
+}
+
+const Mandu = () => {
+  const location = useLocation();
+ console.log(location)
+  return(
+    <motion.div>
+      <Para>
+          <h1>Mandu</h1>
+          <h3>Python(Flask)</h3>
+          <h3>Website / Github</h3>
+          <p>
+          As React JS and Typescript practice, I develope this website website. The Movie DB API provides real-time movies and tv series information.
+          </p>
+      </Para>
+      <Img src="https://euna-lee.com/skill/md.png"/>
+      <Img src="https://euna-lee.com/skill/md2.png"/>
+      <Img src="https://euna-lee.com/skill/md3.png"/>
+    </motion.div>
+  )
+}
+
+const Nf = () => {
+  return(
+    <motion.div>
+    <Para>
+        <Title>Netflix Clone (2023) <Git src="https://euna-lee.com/skill/github.png"/></Title> 
+        <p>
+        As a React JS and Typescript practice, I develope this website website. The Movie DB API provides real-time movies and tv series information.
+        </p>
+    </Para>
+    <Img src="https://euna-lee.com/skill/nf.png"/>
+    <Img src="https://euna-lee.com/skill/nf2.png"/>
+    <Img src="https://euna-lee.com/skill/nf3.png"/>
+    </motion.div>
+  )
 }
 
 export default Home;

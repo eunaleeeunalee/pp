@@ -57,17 +57,31 @@ table {
   box-sizing: border-box;
 }
 body {
+  background-color: #f7f7f7;
   // background-color: #fff254;
-  background-color: hsl(0, 0%, 90%);
+  color: #424242;
   font-family: 'Inconsolata', monospace;
-  font-size: 1.4vw;
-  line-height: 2.2vw;
-  margin: 6vh 7vw;
+  font-size: 1.2vw;
+  line-height: 2.4vw;
+  // margin: 3vh 4vw;
+  font-weight: 400;
 }
 
 h1{
-  font-size: 2vw;
-  margin-bottom: 2vh;
+  font-size: 2.4vw;
+  line-height: 2.4vw;
+  margin-bottom: 1vh;
+}
+
+h2{
+  font-weight: 600;
+}
+
+h3{
+  font-size: 1.6vw;
+  z-index:1;
+  font-weight: 400;
+  padding: 2vh 2vw;
 }
 
 a {
@@ -76,8 +90,11 @@ a {
 }
 
 hr {
-  border: 1px solid black;
+  border: 0.15vh solid #424242;
+  margin: 0 1vw;
+  opacity: 1;
 }
+
 
 @media only screen and (max-width: 768px){
   body{
