@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.8d6a17ca.css",
-    "main.js": "/static/js/main.65ee14eb.js",
+    "main.js": "/static/js/main.48a72d09.js",
     "static/media/mandu.gif": "/static/media/mandu.23ac23286fa3106b22c2.gif",
     "static/media/interview.jpeg": "/static/media/interview.721c3604e27ed327a220.jpeg",
     "static/media/njac.gif": "/static/media/njac.6ffe158d93b6154d761c.gif",
@@ -15,10 +15,10 @@
     "static/media/st.gif": "/static/media/st.d6afeb06566cc799f305.gif",
     "index.html": "/index.html",
     "main.8d6a17ca.css.map": "/static/css/main.8d6a17ca.css.map",
-    "main.65ee14eb.js.map": "/static/js/main.65ee14eb.js.map"
+    "main.48a72d09.js.map": "/static/js/main.48a72d09.js.map"
   },
   "entrypoints": [
     "static/css/main.8d6a17ca.css",
-    "static/js/main.65ee14eb.js"
+    "static/js/main.48a72d09.js"
   ]
 }
